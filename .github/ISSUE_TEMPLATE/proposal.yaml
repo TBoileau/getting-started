@@ -16,10 +16,10 @@ body:
         - Librairie
     validations:
       required: true
-    - type: textarea
-      id: description
-      attributes:
-          label: Description
-          description: Tentez de décrire précisement ce que vous souhaitez faire dans ce Getting Started
-      validations:
-          required: true
+  - type: textarea
+    id: description
+    attributes:
+        label: Description
+        description: Tentez de décrire précisement ce que vous souhaitez faire dans ce Getting Started
+    validations:
+        required: true
