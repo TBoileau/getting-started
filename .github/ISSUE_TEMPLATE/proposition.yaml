@@ -1,0 +1,25 @@
+name: Proposition de Getting Started
+description: Proposez votre idée de Getting Started
+title: "[Proposition]: "
+labels: ["En attente"]
+assignees:
+  - TBoileau
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: Sélectionnez le type de Getting Started
+      options:
+        - Framework
+        - Langage
+        - Librairie
+    validations:
+      required: true
+    - type: textarea
+      id: description
+      attributes:
+          label: Description
+          description: Tentez de décrire précisement ce que vous souhaitez faire dans ce Getting Started
+      validations:
+          required: true
