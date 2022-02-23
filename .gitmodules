@@ -1,0 +1,3 @@
+[submodule "src/fat-free-framework"]
+	path = src/fat-free-framework
+	url = git@github.com:TBoileau/gt-fat-free-framework.git
