@@ -8,6 +8,7 @@
 
 * [Fat Free Framework](https://github.com/TBoileau/gt-fat-free-framework)
 * [Symfony](https://github.com/TBoileau/gt-symfony)
+* [Easy Admin](https://github.com/TBoileau/gt-easy-admin)
 
 ## Proposition
 
