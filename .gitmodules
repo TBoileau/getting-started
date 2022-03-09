@@ -7,3 +7,6 @@
 [submodule "src/symfony"]
 	path = src/symfony
 	url = git@github.com:TBoileau/gt-symfony.git
+[submodule "src/easy-admin"]
+	path = src/easy-admin
+	url = git@github.com:TBoileau/gt-easy-admin.git
