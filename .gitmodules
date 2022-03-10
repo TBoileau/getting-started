@@ -10,3 +10,6 @@
 [submodule "src/easy-admin"]
 	path = src/easy-admin
 	url = git@github.com:TBoileau/gt-easy-admin.git
+[submodule "src/api-platform"]
+	path = src/api-platform
+	url = git@github.com:TBoileau/gt-api-platform.git
