@@ -13,3 +13,6 @@
 [submodule "src/api-platform"]
 	path = src/api-platform
 	url = git@github.com:TBoileau/gt-api-platform.git
+[submodule "src/api-platform"]
+	path = src/ux-live-component
+	url = git@github.com:TBoileau/gt-ux-live-components.git
