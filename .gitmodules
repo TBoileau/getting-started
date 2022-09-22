@@ -1,9 +1,6 @@
 [submodule "src/fat-free-framework"]
 	path = src/fat-free-framework
 	url = git@github.com:TBoileau/gt-fat-free-framework.git
-[submodule "src/laminas-project"]
-	path = src/laminas-project
-	url = https://github.com/TBoileau/gt-laminas-project
 [submodule "src/symfony"]
 	path = src/symfony
 	url = git@github.com:TBoileau/gt-symfony.git

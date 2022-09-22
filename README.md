@@ -10,6 +10,8 @@
 * [Symfony](https://github.com/TBoileau/gt-symfony)
 * [Easy Admin](https://github.com/TBoileau/gt-easy-admin)
 * [API Platform](https://github.com/TBoileau/gt-api-platform)
+* [Symfony UX Live Component](https://github.com/TBoileau/gt-ux-live-components)
+* [Symfony UX Twig Component](https://github.com/TBoileau/gt-ux-twig-component)
 
 ## Proposition
 
