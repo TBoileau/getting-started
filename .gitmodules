@@ -16,7 +16,6 @@
 [submodule "src/ux-twig-component"]
 	path = src/ux-live-component
 	url = git@github.com:TBoileau/gt-ux-twig-component.git
-
 [submodule "src/ux-live-component"]
 	path = src/ux-live-component
 	url = git@github.com:TBoileau/gt-ux-live-components.git
