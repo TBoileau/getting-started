@@ -14,7 +14,7 @@
 	path = src/api-platform
 	url = git@github.com:TBoileau/gt-api-platform.git
 [submodule "src/ux-twig-component"]
-	path = src/ux-live-component
+	path = src/ux-twig-component
 	url = git@github.com:TBoileau/gt-ux-twig-component.git
 [submodule "src/ux-live-component"]
 	path = src/ux-live-component
